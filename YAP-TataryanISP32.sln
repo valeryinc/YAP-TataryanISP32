@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAP-TataryanISP32", "YAP-TataryanISP32.csproj", "{FA4560A8-577F-4F88-90D7-46424BF920B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA4560A8-577F-4F88-90D7-46424BF920B8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FA4560A8-577F-4F88-90D7-46424BF920B8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FA4560A8-577F-4F88-90D7-46424BF920B8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FA4560A8-577F-4F88-90D7-46424BF920B8}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11348F9F-730E-4B23-B27D-053D269BB782}
+	EndGlobalSection
+EndGlobal
