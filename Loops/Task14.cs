@@ -1,8 +1,8 @@
 ﻿using System;
 
-class Task4
+class Task14 : ISolution
 {
-    public static void Solution()
+    public void GetSolution()
     {
         int n = int.Parse(Console.ReadLine());
         int ticks = 0;
@@ -19,7 +19,7 @@ class Task4
         Console.WriteLine(time.ToString("hh':'mm"));
     }
 
-    public static double Angle(TimeSpan time)
+    public double Angle(TimeSpan time)
     {
         double hAngle = 0.5d * (time.Hours * 60 + time.Minutes);
         double mAngle = 6 * time.Minutes;

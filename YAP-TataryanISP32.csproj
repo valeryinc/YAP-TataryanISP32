@@ -32,9 +32,16 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Loops\Task2.cs" />
-    <Compile Include="Loops\Task3.cs" />
-    <Compile Include="Loops\Task4.cs" />
+    <Compile Include="Loops\Task12.cs" />
+    <Compile Include="Loops\Task13.cs" />
+    <Compile Include="Loops\Task14.cs" />
+    <Compile Include="ISolution.cs" />
+    <Compile Include="Arrays\Task21.cs" />
+    <Compile Include="Arrays\Task23.cs" />
+    <Compile Include="Arrays\Task24.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Arrays\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

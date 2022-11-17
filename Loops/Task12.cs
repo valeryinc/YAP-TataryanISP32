@@ -1,8 +1,8 @@
 ﻿using System;
 
-class Task2
+class Task12 : ISolution
 {
-    public static void Solution()
+    public void GetSolution()
     {
         int number = int.Parse(Console.ReadLine());
         int count = 0;

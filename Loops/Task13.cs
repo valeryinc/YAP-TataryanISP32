@@ -1,8 +1,8 @@
 ﻿using System;
 
-class Task3
+class Task13 : ISolution
 {
-    public static void Solution()
+    public void GetSolution()
     {
         int height = int.Parse(Console.ReadLine());
         int space = height;
