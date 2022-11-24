@@ -4,7 +4,7 @@ class MainClass
 {
     public static void Main()
     {
-        ISolution n = new Task23();
+        ISolution n = new Task36();
         n.GetSolution();
     }
 }
