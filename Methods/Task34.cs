@@ -12,10 +12,14 @@ class Task34 : ISolution
 
     public void PrintEven(List<int> toPrint)
     {
-        foreach(int l in toPrint)
+        int b = 1;
+        while (b < toPrint.Count)
         {
-            Console.WriteLine(l + " ");
+            if ((b % 2) != 0)
+                Console.Write(toPrint[b] + " ");
+            b++;
         }
+        Console.WriteLine();
     }
 
     public List<int> GetMultiple(int startValue, int endValue)
