@@ -31,6 +31,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arrays\Task26.cs" />
+    <Compile Include="Collections\Task42.cs" />
+    <Compile Include="Collections\Task43.cs" />
+    <Compile Include="Collections\Task46.cs" />
+    <Compile Include="Collections\Task48.cs" />
     <Compile Include="Methods\Task31.cs" />
     <Compile Include="Methods\Task34.cs" />
     <Compile Include="Methods\Task36.cs" />
