@@ -6,7 +6,7 @@ using System.Threading;
 
 class Task36 : ISolution
 {
-    //работает только с простыми числами
+    //работает только с однозначными числами
     //56 = 7 * 7 + 7
     //23 = 7 * 3 + 2
     public void GetSolution()
