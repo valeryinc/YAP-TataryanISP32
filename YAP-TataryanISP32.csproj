@@ -36,6 +36,8 @@
     <Compile Include="Collections\Task43.cs" />
     <Compile Include="Collections\Task46.cs" />
     <Compile Include="Collections\Task48.cs" />
+    <Compile Include="Constructors\Task64.cs" />
+    <Compile Include="Constructors\Task61.cs" />
     <Compile Include="Methods\Task31.cs" />
     <Compile Include="Methods\Task34.cs" />
     <Compile Include="Methods\Task36.cs" />
@@ -53,8 +55,6 @@
     <Compile Include="Classes\Task53.cs" />
   </ItemGroup>
   <ItemGroup />
-  <ItemGroup>
-    <Folder Include="Classes\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
