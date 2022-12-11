@@ -53,8 +53,13 @@
     <Compile Include="Arrays\Task24.cs" />
     <Compile Include="Classes\Task52.cs" />
     <Compile Include="Classes\Task53.cs" />
+    <Compile Include="_Properties\Task71.cs" />
+    <Compile Include="_Properties\Task73.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup />
+  <ItemGroup>
+    <Folder Include="_Properties\" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
